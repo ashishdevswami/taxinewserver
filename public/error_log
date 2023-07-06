@@ -1,0 +1,2 @@
+[13-Jun-2023 18:36:38 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 803213312 bytes) in /home2/dhhkfrjg/public_html/taxi.atyarealtors.com/app/Http/Controllers/Web/Admin/RequestController.php on line 62
+[13-Jun-2023 18:36:56 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 803213312 bytes) in /home2/dhhkfrjg/public_html/taxi.atyarealtors.com/app/Http/Controllers/Web/Admin/RequestController.php on line 62
